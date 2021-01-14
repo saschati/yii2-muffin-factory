@@ -1,5 +1,5 @@
 {
-    "name":        "insolita/yii2-muffin-factory" ,
+    "name":        "saschati/yii2-muffin-factory" ,
     "description": "Port of laravel factory" ,
     "type":        "yii2-extension" ,
     "keywords":    [ "yii2", "seed", "testing", "fixtures", "database"] ,
